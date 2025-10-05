@@ -16,3 +16,10 @@ This project focuses on analyzing and predicting stock market trends using Pytho
 - **Tools:** Jupyter Notebook, GitHub
 
 ## Project Structure
+/stock-market-analysis
+│
+├── data/ # Contains datasets (CSV files)
+├── notebooks/ # Jupyter notebooks for analysis
+├── scripts/ # Python scripts
+├── README.md # Project overview
+└── .gitignore # Git ignore file
